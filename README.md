@@ -1,6 +1,8 @@
 # hackathon-SoDoc-back
 ## To launch the API
 
+Use dev branch
+
 $ npm install
 $ npm node index
 
